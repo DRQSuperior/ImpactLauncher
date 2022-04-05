@@ -3,7 +3,7 @@
 # How to use
 ## 1. Specify a username
 ## 2. Specify a path
-##3. Launch
+## 3. Launch
 # Show Case
 ##### Username
 [![](https://media.discordapp.net/attachments/934852081582489690/961019191090106378/unknown.png)](https://media.discordapp.net/attachments/934852081582489690/961019191090106378/unknown.png)
